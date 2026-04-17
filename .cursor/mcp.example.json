@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "Obsidian Second Brain": {
+      "command": "bash",
+      "args": [
+        "-lc",
+        "cd /ABS/PATH/TO/THIS/REPO && source .venv/bin/activate && python obsidian-second-brain-mcp.py --vault \"/ABS/PATH/TO/YOUR/OBSIDIAN_VAULT\""
+      ]
+    }
+  }
+}
